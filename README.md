@@ -48,7 +48,7 @@ The database includes the following tables:
 Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/ritik7545/shopping_cart_data_store-and-simple-analysis.git
+   https://github.com/aditya7042004/shopping_cart_data_store-and-simple-analysis
 
 ```
 
@@ -56,12 +56,12 @@ Clone the repository to your local machine:
 
 You can explore more about my projects, skills, and achievements through my personal portfolio here:
 
-- **Portfolio**: (https://ritiksah.netlify.app/)
+- **Portfolio**: ()
 
 ## LinkedIn Profile
 
 For professional updates, career-related content, and networking, connect with me on LinkedIn:
 
-- **LinkedIn**: (https://www.linkedin.com/in/ritikkumarsah/)
+- **LinkedIn**: (https://www.linkedin.com/in/aditya-yadav-398902245/)
 
 Thank you for visiting my portfolio!
